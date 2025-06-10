@@ -1,0 +1,25 @@
+{
+  "name": "com.collaboration.unity-framework",
+  "version": "1.0.0",
+  "displayName": "Unity Collaboration Framework",
+  "description": "A comprehensive Unity development framework featuring advanced C# patterns, XLua integration, shader utilities, and performance optimization tools designed for professional game development.",
+  "unity": "2021.3",
+  "keywords": [
+    "unity",
+    "framework",
+    "csharp",
+    "xlua",
+    "shaders",
+    "performance",
+    "architecture",
+    "patterns"
+  ],
+  "author": {
+    "name": "Unity Collaboration Team",
+    "email": "collaboration@unity-framework.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KizunaMo/unity-collaboration-framework.git"
+  }
+}
